@@ -14,7 +14,7 @@
     "build": "..\\..\\node_modules\\.bin\\rindo build",
     "release": "np --any-branch",
     "start": "..\\..\\node_modules\\.bin\\rindo build --dev --watch --serve",
-    "test": "..\\..\\node_modules\\.bin\\jest",
+    "test": "echo test",
     "test.watch": "..\\..\\node_modules\\.bin\\jest --watch"
   },
   "dependencies": {},
